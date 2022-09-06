@@ -63,7 +63,8 @@ body {
   background: rgba(238, 238, 238, 0.96);
   height: 100%;
 }
-.nav-content .container .col-md-4 {
+.nav-content .container .col-lg-4,
+.nav-content .container .col-md-12 {
   background: rgb(87, 86, 79);
   padding: 0;
 }
